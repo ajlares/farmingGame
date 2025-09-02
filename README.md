@@ -1,2 +1,2 @@
 # farmingGame
-whit some crazy mechanics
+with some crazy mechanics
